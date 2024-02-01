@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Abstract Meme",
+        "leaderName": "Genshin Impact",
+        "startBias": [
+            "[Coast]",
+            "Avoid [Desert]",
+            "Avoid [Snow]"
+        ],
+        "startIntroPart1": "Genshin Impact, launch!",
+        "innerColor": [0, 99, 153],
+        "outerColor": [255, 255, 255],
+        "uniqueName": "Mihomo Guard",
+        "uniqueText": "You've played Genshin Impact too much, right?"
+    }
+]
