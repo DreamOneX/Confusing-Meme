@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Mi Founder",
+        "unitType": "Civilian",
+        "uniqueTo": "Abstract Meme",
+        "replaces": "Settler",
+        "movement": 6,
+        "cost": 240,
+        "uniques": [
+            "Founds a new city <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "Requires at least [4] population",
+            "Heal this unit by [100] HP <upon turn end>"
+            "All tiles cost 1 movement",
+            "May travel on Water tiles without embarking",
+            "Can pass through impassable tiles",
+            "Can enter ice tiles",
+            "Ignores Zone of Control",
+            "May enter foreign tiles without open borders",
+            "Ignores terrain cost",
+            "Invisible to non-adjacent units",
+            "Can see over obstacles",
+            "Can move immediately once bought",
+            "Uncapturable",
+            "[+3] Sight"
+        ],
+        "hurryCostModifier": 30
+    },
+    {
+        "name": "Mi Warrior"
+        "unitType": "Sword",
+        "uniqueTo": "Abstract Meme",
+        "replaces": "Warrior",
+        "movement": 4,
+        "strength": 11,
+        "cost": 30,
+        "uniques": [
+            "[+2] Sight",
+            "[+40] HP when healing",
+            "Can move immediately once bought",
+            "Can move after attacking",
+            "[1] additional attacks per turn",
+            "[+200]% Strength <when defending> <on foreign continents> <vs cities>",
+            "[-25]% Strength <when attacking> <on foreign continents> <vs cities>",
+            "[+50]% Strength <when [Wounded]> <vs [{non-[Wounded]} {Military}] units> <when attacking>",
+            "[+100]% Strength <vs [Barbarians] units>",
+            "Heals [25] damage if it kills a unit",
+            "No movement cost to pillage"
+        ],
+    }
+]

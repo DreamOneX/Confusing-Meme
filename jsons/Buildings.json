@@ -1,0 +1,35 @@
+[
+    {
+        "name": "miHoYo Palace",
+        "isNationalWonder": true,
+        "replaces": "Palace",
+        "uniqueTo": "Abstract Meme",
+        "production": 5,
+        "science": 5,
+        "gold": 5,
+        "culture": 2,
+        "happiness": 5,
+        "food": 3,
+        "faith": 1
+        "cityStrength": 20,
+        "cost": 1,
+        "uniques": [
+            "Indicates the capital city",
+            "Gain enough Faith for a Pantheon",
+            "[1] free [Great Prophet] units appear",
+            "Triggers the following global alert: [Genshin Impact, launch!]",
+            "[4] Free Technologies",
+            "[3] Free Social Policies",
+            "Gain [250] [Gold]",
+            "Empire enters a [4]-turn Golden Age",
+            "[+1 Food, +1 Happiness] per [5] population [in this city]",
+            "[+4 Food] <before [11] turns>",
+            "[+25]% [Culture] <after [50] turns>",
+            "[+100]% [Faith] <before [151] turns> <after [50] turns>",
+            "[+100]% [Science] <after [150] turns>",
+            "[+100]% [Production] <after [200] turns>",
+            "[+200]% [Food] <after [300] turns>",
+            "[+20 Happiness] <after [320] turns>"
+        ]
+    }
+]
